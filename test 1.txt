@@ -2,4 +2,8 @@
 Rishita hey
 =======
 Rishita hey hi
+<<<<<<< HEAD
 >>>>>>> c488b6c179d7ee81728ea2696ad93d61927d2f76
+=======
+nice
+>>>>>>> 2b9ca158ccfa07c0deb6f625612cd81b68ac8d06
